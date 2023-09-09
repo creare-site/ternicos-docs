@@ -6,7 +6,7 @@ slug            : /
 ---
 <!-- GOOGLE Stuff -->
 <head>
-    <meta name="google-site-verification" content="EtXV-RjJPvOzjyJL8MPdHiNQDZnoFBt-87HRdYuJJuE" />
+    <meta name="google-site-verification" content="cJavSe96joR1F6zGeDzC3LloSsk37j6qZzVb0NY9pks" />
 </head>
 
 Cine Suntem
