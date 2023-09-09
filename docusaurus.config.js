@@ -143,7 +143,7 @@ const config = {
                                 href: 'mail:ternicosconstruct@yahoo.com',
                             },
                             {
-                                label: 'Tel: 0746-059-748',
+                                label: 'Tel: 0746.059.748',
                                 href: 'tel:0746059748',
                             },
                         ],
