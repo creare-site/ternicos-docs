@@ -13,12 +13,12 @@ const customFields = {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Rocket Generator',
-    tagline: 'Generate secure Apps and APIs on top of Django',
+    title: 'Ternicos Construct',
+    tagline: 'Restaurarea de monumente istorice si de patrimoniu, Reabilitarea fatadelor exterioare',
     favicon: 'img/favicon.png',
 
     // Set the production url of your site here
-    url: 'https://www.blog.websitemarket.ro',
+    url: 'https://www.docs.ternicos-construct.ro',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
@@ -26,7 +26,7 @@ const config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'creare-site', // Usually your GitHub org/user name.
-    projectName: 'websitemarket-docs', // Usually your repo name.
+    projectName: 'ternicos-docs', // Usually your repo name.
     trailingSlash: false, // for github pages compatibility
 
     onBrokenLinks: 'throw',
@@ -63,14 +63,14 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/creare-site/websitemarket-docs/tree/main/'
+                        'https://github.com/creare-site/ternicos-docs/tree/main/'
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/creare-site/websitemarket-docs/tree/main/',
+                        'https://github.com/creare-site/ternicos-docs/tree/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -88,7 +88,7 @@ const config = {
                 title: '',
                 logo: {
                     href: '/',
-                    alt: 'WebsiteMarket',
+                    alt: 'TernicosConstruct',
                     src: 'img/logo.png',
                 },
                 items: [
@@ -100,7 +100,7 @@ const config = {
                     },
                     { to: '/blog', label: 'Blog', position: 'left' },
                     {
-                        href: 'https://github.com/creare-site/websitemarket-docs',
+                        href: 'https://github.com/creare-site/ternicos-docs',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -127,11 +127,11 @@ const config = {
                         items: [
                             {
                                 label: 'Cine Suntem',
-                                href: 'https://websitemarket.ro/#company-info-section',
+                                href: 'https://ternicos-construct.ro/',
                             },
                             {
                                 label: 'Servicii',
-                                href: 'https://websitemarket.ro/#services-section',
+                                href: 'https://ternicos-construct.ro/',
                             },
                         ],
                     },
@@ -139,17 +139,17 @@ const config = {
                         title: 'Contact',
                         items: [
                             {
-                                label: 'hello@websitemarket.ro',
-                                href: 'mail:hello@websitemarket.ro',
+                                label: 'ternicosconstruct@yahoo.com',
+                                href: 'mail:ternicosconstruct@yahoo.com',
                             },
                             {
-                                label: 'Tel: 0766-612-322',
-                                href: 'tel:0766612322',
+                                label: 'Tel: 0746-059-748',
+                                href: 'tel:0746059748',
                             },
                         ],
                     },
                 ],
-                copyright: `&copy; ${new Date().getFullYear()} WebsiteMarket`,
+                copyright: `&copy; ${new Date().getFullYear()} Ternicos Construct`,
             },
             prism: {
                 theme: lightCodeTheme,

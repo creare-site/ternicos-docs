@@ -1,5 +1,5 @@
 ---
-title           : WebsiteMarket
+title           : Ternicos Construct
 sidebar_position: 1
 sidebar_label   : Intro
 slug            : /
@@ -13,5 +13,7 @@ Cine Suntem
 
 <br />
 
-- 👉 [Generate Django Apps](https://app-generator.dev/django/) using `Rocket Generator`
-- 👉 Join the [Community](https://discord.gg/fZC6hup) and chat with the `support` team 
+## Resurse
+
+- 👉 [LINK 1](#) some info
+- 👉 [LINK 1](#) some info
