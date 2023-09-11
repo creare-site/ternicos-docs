@@ -110,7 +110,7 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Content',
+                        title: 'Continut',
                         items: [
                             {
                                 label: 'Intro',
@@ -126,30 +126,30 @@ const config = {
                         title: 'Servicii',
                         items: [
                             {
-                                label: 'Cine Suntem',
+                                label: 'Restaurarea Monumente',
                                 href: 'https://ternicos-construct.ro/',
                             },
                             {
-                                label: 'Servicii',
+                                label: 'Reabilitare Fatade',
                                 href: 'https://ternicos-construct.ro/',
                             },
                         ],
                     },
                     {
-                        title: 'Contact',
+                        title: 'Link-uri',
                         items: [
                             {
-                                label: 'ternicosconstruct@yahoo.com',
-                                href: 'mail:ternicosconstruct@yahoo.com',
+                                label: 'Tel: 0746.059.748',
+                                href: 'tel:0746.059.748',
                             },
                             {
-                                label: 'Tel: 0746.059.748',
-                                href: 'tel:0746059748',
+                                label: 'WebsiteMarket',
+                                href: 'https://websitemarket.ro/',
                             },
                         ],
                     },
                 ],
-                copyright: `&copy; ${new Date().getFullYear()} Ternicos Construct`,
+                copyright: `&copy; Ternicos-Construct - Creat de WebsiteMarket`,
             },
             prism: {
                 theme: lightCodeTheme,
