@@ -139,8 +139,8 @@ const config = {
                         title: 'Link-uri',
                         items: [
                             {
-                                label: 'Tel: 0746.059.748',
-                                href: 'tel:0746.059.748',
+                                label: 'Tel: 0746.064.102',
+                                href: 'tel:0746064102',
                             },
                             {
                                 label: 'WebsiteMarket',
